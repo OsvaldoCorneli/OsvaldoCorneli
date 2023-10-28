@@ -1,12 +1,21 @@
 ### Hi there 👋
+Soy Osvaldo, estudiante de desarrollo Full Stack en Henry con experiencia técnica en computadoras y mecánica de bicicletas. Aunque comencé en profesorado en inglés, mi camino me llevó al emocionante mundo del desarrollo.
 
+💻 Desarrollo habilidades en:
+◾JavaScript
+◾React
+◾Redux
+◾Node.js
+◾Express
+◾PostgreSQL
+◾Sequelize 
+y mis proyectos en Henry destacan mi creatividad y capacidad técnica. Con un nivel B2 de inglés, busco oportunidades que fusionen mi pasión por la tecnología y el inglés.
+
+🚀 ¡Conéctate para explorar cómo puedo aportar a tu equipo!
+
+- 🔭 I’m currently working on Proyecto final SoyHenry donde fuimos selecionados para un proyecto real junto con mis compañeros...
+- 🌱 I’m currently learning typescript...
 <!--
-**OsvaldoCorneli/OsvaldoCorneli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
