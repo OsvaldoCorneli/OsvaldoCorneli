@@ -1,16 +1,13 @@
 # OsvaldoCorneli/README.md
-# Hola, soy Osvaldo 👋
+# Hola, Mi nombre es Osvaldo Matias Corneli Nassif 👋
 
 ### Trayectoria Educativa
-Soy un programador Full Stack graduado de Henry. Mi interés por la programación se despertó durante mi adolescencia, lo que me llevó a iniciar una carrera en informática en la universidad (aunque no la concluí).
 
-### Breve Pausa en la Carrera
+Soy un programador Full Stack graduado de Henry. Mi interés por la programación se despertó durante mi adolescencia, lo que me llevó a iniciar una carrera en informática en la universidad (aunque no la concluí).
 En la universidad, descubrí mi pasión por el inglés y decidí explorar un profesorado en inglés. Sin embargo, la pandemia del 2020 por el COVID-19 me obligó a alejarme temporalmente de mis estudios.
 
-### Descubrimiento y Pasión por las Bicicletas
-La vida me llevó por otro camino, y descubrí una nueva pasión: las bicicletas. Me convertí en mecánico y disfruté explorando este mundo.
-
 ### Regreso a la Programación
+
 En 2022, tuve la oportunidad de participar en el programa "Argentina Programa", lo que reavivó mi pasión por la programación. Fue entonces cuando descubrí el desarrollo web, ¡y quedé fascinado!
 
 ### Habilidades Técnicas: 
@@ -34,7 +31,7 @@ Ahora, como programador Full Stack, estoy emocionado por seguir explorando el em
 ### Conéctate
 Conéctate conmigo y exploremos juntos. 🚀
 
-correo electorico: overcorneli@gmail.com
+Correo electrónico: overcorneli@gmail.com
 
 <!--
 - 👯 I’m looking to collaborate on ...
