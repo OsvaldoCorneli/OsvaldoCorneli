@@ -1,5 +1,5 @@
 # OsvaldoCorneli/README.md
-# Hola, Mi nombre es Osvaldo Matias Corneli Nassif 👋
+# Hola👋
 
 ### Trayectoria Educativa
 
