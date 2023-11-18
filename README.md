@@ -30,7 +30,7 @@ Ahora, como programador Full Stack, estoy emocionado por seguir explorando el em
 
 ### Conéctate
 Conéctate conmigo y exploremos juntos. 🚀
-
+LinkedIn: https://www.linkedin.com/in/osvaldo-corneli-nassif-822728268/
 Correo electrónico: overcorneli@gmail.com
 
 <!--
