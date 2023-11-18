@@ -29,8 +29,11 @@ En 2022, tuve la oportunidad de participar en el programa "Argentina Programa", 
 Ahora, como programador Full Stack, estoy emocionado por seguir explorando el emocionante mundo del desarrollo y contribuir a proyectos innovadores.
 
 ### Conéctate
+
 Conéctate conmigo y exploremos juntos. 🚀
+
 LinkedIn: https://www.linkedin.com/in/osvaldo-corneli-nassif-822728268/
+
 Correo electrónico: overcorneli@gmail.com
 
 <!--
