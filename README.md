@@ -13,9 +13,9 @@ La vida me llevó por otro camino, y descubrí una nueva pasión: las bicicletas
 ### Regreso a la Programación
 En 2022, tuve la oportunidad de participar en el programa "Argentina Programa", lo que reavivó mi pasión por la programación. Fue entonces cuando descubrí el desarrollo web, ¡y quedé fascinado!
 
-###💻 Habilidades Técnicas:
+### Habilidades Técnicas: 
 
-Desarrollo habilidades en:
+💻 Desarrollo habilidades en:
 
 ◾HTML
 ◾CSS
