@@ -1,39 +1,41 @@
 # OsvaldoCorneli/README.md
-Hi there 👋
+# Hola, soy Osvaldo 👋
 
-Hello, I'm Osvaldo, a Full Stack developer graduated from Henry with technical experience in computers and bicycle mechanics. Although I initially pursued a career in English teaching, my journey led me to the exciting world of development..
+## Trayectoria Educativa
+Soy un programador Full Stack graduado de Henry. Mi interés por la programación se despertó durante mi adolescencia, lo que me llevó a iniciar una carrera en informática en la universidad (aunque no la concluí).
 
-💻 Developing skills in: 
-◾JavaScript 
-◾React 
-◾Redux 
-◾Node.js 
-◾Express 
-◾PostgreSQL 
-◾Sequelize,
+## Breve Pausa en la Carrera
+En la universidad, descubrí mi pasión por el inglés y decidí explorar un profesorado en inglés. Sin embargo, la pandemia del 2020 por el COVID-19 me obligó a alejarme temporalmente de mis estudios.
 
- my projects at Henry showcase my creativity and technical ability. With a B2 level of English, I am seeking opportunities that merge my passion for technology and English.
+## Descubrimiento y Pasión por las Bicicletas
+La vida me llevó por otro camino, y descubrí una nueva pasión: las bicicletas. Me convertí en mecánico y disfruté explorando este mundo.
 
-🚀 Connect to explore how I can contribute to your team!
-🌱 I’m currently learning TypeScript...
+## Regreso a la Programación
+En 2022, tuve la oportunidad de participar en el programa "Argentina Programa", lo que reavivó mi pasión por la programación. Fue entonces cuando descubrí el desarrollo web, ¡y quedé fascinado!
 
-### ¡Hola! 👋
-Soy Osvaldo, Full Stack developer egresado de Henry con experiencia técnica en computadoras y mecánica de bicicletas. Aunque comencé en profesorado en inglés, mi camino me llevó al emocionante mundo del desarrollo.
+💻 Habilidades Técnicas:
 
-💻 Desarrollo habilidades en:
+Desarrollo habilidades en:
+
+◾HTML
+◾CSS
 ◾JavaScript
 ◾React
 ◾Redux
 ◾Node.js
 ◾Express
 ◾PostgreSQL
-◾Sequelize 
+◾Sequelize
+◾Python
 
-y mis proyectos en Henry destacan mi creatividad y capacidad técnica. Con un nivel B2 de inglés, busco oportunidades que fusionen mi pasión por la tecnología y el inglés.
+## Actualidad y Futuro
+Ahora, como programador Full Stack, estoy emocionado por seguir explorando el emocionante mundo del desarrollo y contribuir a proyectos innovadores.
 
-🚀 ¡Conéctate para explorar cómo puedo aportar a tu equipo!
+## Conéctate
+Conéctate conmigo y exploremos juntos. 🚀
 
-- 🌱 I’m currently learning typescript...
+correo electorico: overcorneli@gmail.com
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
