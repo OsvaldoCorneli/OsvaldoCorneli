@@ -36,6 +36,7 @@ Ahora, como programador Full Stack, estoy emocionado por seguir explorando el em
 Conéctate conmigo y exploremos juntos. 🚀
 
 LinkedIn: https://www.linkedin.com/in/osvaldocorneli/
+
 Portfolio: https://osvaldocorneli.vercel.app/
 
 Correo electrónico: overcorneli@gmail.com
