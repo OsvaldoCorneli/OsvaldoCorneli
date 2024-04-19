@@ -19,9 +19,12 @@ En 2022, tuve la oportunidad de participar en el programa "Argentina Programa", 
 ◾JavaScript
 ◾React
 ◾Redux
+◾Ejs
+◾bootstrap
 ◾Node.js
 ◾Express
 ◾PostgreSQL
+◾MySQL
 ◾Sequelize
 ◾Python
 
@@ -32,7 +35,8 @@ Ahora, como programador Full Stack, estoy emocionado por seguir explorando el em
 
 Conéctate conmigo y exploremos juntos. 🚀
 
-LinkedIn: https://www.linkedin.com/in/osvaldo-corneli-nassif-822728268/
+LinkedIn: https://www.linkedin.com/in/osvaldocorneli/
+Portfolio: https://osvaldocorneli.vercel.app/
 
 Correo electrónico: overcorneli@gmail.com
 
